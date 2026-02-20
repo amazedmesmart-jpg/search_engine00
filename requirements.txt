@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+langchain-core
+langchain-text-splitters
+streamlit
+duckduckgo-search
+arxiv==1.4.8
+wikipedia
+python-dotenv
+ipykernel
+sgmllib3k
+feedparser==6.0.10
